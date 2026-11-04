@@ -32,7 +32,7 @@ Site institucional de um restaurante de comida caseira, desenvolvido em dupla co
 
 ## ▶️ Como ver o projeto
 
-1. Acesse o [site no ar](https://adrianoliveiradev.github.io/deli-food/), ou
+1. Acesse o [site no ar](https://adrianoliveiradev.github.io/DeliFood/), ou
 2. Baixe ou clone este repositório e abra o arquivo `index.html` no navegador.
 
 ## 📝 Observação
