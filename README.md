@@ -2,7 +2,7 @@
 
 Site institucional de um restaurante de comida caseira, desenvolvido em dupla como atividade da disciplina **Fundamentos de Desenvolvimento Web** no CEET Vasco Coutinho.
 
-🔗 **Ver o site no ar:** [adrianoliveiradev.github.io/deli-food](https://adrianoliveiradev.github.io/deli-food/)
+🔗 **Ver o site no ar:** [adrianoliveiradev.github.io/deli-food](https://adrianoliveiradev.github.io/DeliFood/)
 
 ## 📸 Prévia
 
